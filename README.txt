@@ -31,9 +31,6 @@
 <Cheat Codes>
 	Right click to earn free gold.
 <Credits>
-	President : Claude Comair
-	Instructor : David Ly
-	Teaching Assistant : Hun Yang
 	Jeesoo Kim : Producer
 	Sangmin Kim : Technical Director
 	Minseok Sung : Test Manager
