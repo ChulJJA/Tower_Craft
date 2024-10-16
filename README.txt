@@ -5,10 +5,9 @@
 *	Sangmin Kim (sangmin.kim)
 *	Minseok Sung (minseok.sung)
 *	Chulseung Lee (chulseung.lee)
-* GAM150S19KR
+
 * Tower Craft is a grid based 2D tower defense game where the user have to protect the incoming enemies by installing various towers. 
-*	User must upgrade the towers to defeat the enemies that grow stronger as the game proceeds.
-* All content © 2019 DigiPen (USA) Corporation, all rights reserved
+* User must upgrade the towers to defeat the enemies that grow stronger as the game proceeds.
 
 <Installation Instructions>
 	Open the TowerCraft_Setup.exe 
